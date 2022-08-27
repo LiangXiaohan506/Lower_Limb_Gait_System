@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [接收器.PrjPcb]
+   Generated File[接收器-RoundHoles.TXT]
+   Generated File[接收器-SlotHoles.TXT]
+   Generated File[接收器.LDP]
+   Generated File[接收器.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 21:55:15 On 2022/7/5

@@ -1,0 +1,16 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~接收器.PrjPcb|ReportField=ProjectFullPath~C:\Users\liang\Desktop\足底压力\接收器\接收器.PrjPcb|ReportField=Title~Bill of Materials For Project [接收器.PrjPcb] (No PCB Document Selected)|ReportField=ReportTime~9:14:42|ReportField=ReportDate~2021/11/9|ReportField=ReportDateTime~2021/11/9 9:14:42|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~29|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2021/11/9|ReportField=CurrentTime~9:14:37|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\liang\Desktop\足底压力\接收器\接收器.SchDoc|ReportField=DocumentName~接收器.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2021/10/31|ReportField=Organization~|ReportField=ProjectName~接收器.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~接收器.PrjPcb|ReportField=DataSourceFullPath~C:\Users\liang\Desktop\足底压力\接收器\接收器.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|104|贴片电容|C1, C2, C3|C 0805_L|C|3
+2|MBR0520|整流二极管|D1, D2|SOD-123|1N4007|2
+3|10uF/16V|贴片钽电容|E1, E2|CD A(3216)|CT|2
+4|红色|贴片LED|LED1, LED2, LED5|LED 0805R|LED-SMD|3
+5|蓝色|贴片LED|LED3, LED4|LED 0805B|LED-SMD|2
+6|绿色|贴片LED|LED6|LED 0805G|LED-SMD|1
+7|HC-05|串口蓝牙模块|M1|HC-05|HC-05|1
+8|1K|贴片电阻|R1, R3, R4, R6|R 0805_L|R|4
+9|100|贴片电阻|R2, R5|R 0805_L|R|2
+10|5.6K|贴片电阻|R7, R8|R 0805_L|R|2
+11|10K|贴片电阻|R9, R10, R11|R 0805_L|R|3
+12|4x4x1.5|防水轻触开关|SW1|TS4x4x1.5|TS-030|1
+13|CH340C|串口芯片，无需外部晶振|U1|SOP16|CH340C|1
+14|USB|USB-A型公接口|USB1|USB_A/P_A|USB-A/P|1
+15|AMS1117-3V3|三端稳压芯片|V1|SOT223_L|AMS1117|1

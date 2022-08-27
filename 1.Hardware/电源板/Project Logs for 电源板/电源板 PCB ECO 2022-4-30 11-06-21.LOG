@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=S1-3
+Added Member To Class: ClassName=电源板 Member=Component 2 HDR-1X2
+Added Room: Name=电源板

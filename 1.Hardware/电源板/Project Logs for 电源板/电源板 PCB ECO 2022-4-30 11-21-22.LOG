@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=1-2
+Added Pin To Net: NetName=GND Pin=1-1
+Added Pin To Net: NetName=Net1_2 Pin=1-2
+Added Pin To Net: NetName=Net1_2 Pin=2-1
+Added Pin To Net: NetName=Net1_2 Pin=S1-2
+Added Net: Name=Net1_2
+Added Room: Name=µÁ‘¥∞Â

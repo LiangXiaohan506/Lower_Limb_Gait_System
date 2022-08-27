@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=LED1-2
+Removed Pin From Net: NetName=3.3V Pin=R1-2
+Removed Member From Class: ClassName=角度采集板 Member=LED1
+Removed Member From Class: ClassName=角度采集板 Member=R1
+Added Room: Name=角度采集板

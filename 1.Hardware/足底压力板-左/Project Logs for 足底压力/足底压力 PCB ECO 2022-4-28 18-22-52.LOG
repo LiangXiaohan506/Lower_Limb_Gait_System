@@ -1,0 +1,27 @@
+Added Component: Designator=IC1(SOP24_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "4线转16线译码器"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VC11 Pin=IC1-2
+Added Pin To Net: NetName=VC10 Pin=IC1-3
+Added Pin To Net: NetName=VC9 Pin=IC1-4
+Added Pin To Net: NetName=VC8 Pin=IC1-5
+Added Pin To Net: NetName=VC7 Pin=IC1-6
+Added Pin To Net: NetName=VC6 Pin=IC1-7
+Added Pin To Net: NetName=VC5 Pin=IC1-8
+Added Pin To Net: NetName=VC4 Pin=IC1-9
+Added Pin To Net: NetName=VC3 Pin=IC1-10
+Added Pin To Net: NetName=VC2 Pin=IC1-11
+Added Pin To Net: NetName=GND Pin=IC1-12
+Added Pin To Net: NetName=VC1 Pin=IC1-13
+Added Pin To Net: NetName=VC0 Pin=IC1-14
+Added Pin To Net: NetName=GND Pin=IC1-18
+Added Pin To Net: NetName=GND Pin=IC1-19
+Added Pin To Net: NetName=PA4/A Pin=IC1-20
+Added Pin To Net: NetName=PA5/B Pin=IC1-21
+Added Pin To Net: NetName=PA6/C Pin=IC1-22
+Added Pin To Net: NetName=PA7/D Pin=IC1-23
+Added Pin To Net: NetName=5V Pin=IC1-24
+Added Member To Class: ClassName=足底压力 Member=Component IC1 74HC154
+Added Room: Name=足底压力

@@ -1,0 +1,28 @@
+--cpu Cortex-M0
+"pp_peripheral\startup_stm32f042x6.o"
+"pp_peripheral\main.o"
+"pp_peripheral\gpio.o"
+"pp_peripheral\can.o"
+"pp_peripheral\stm32f0xx_it.o"
+"pp_peripheral\stm32f0xx_hal_msp.o"
+"pp_peripheral\stm32f0xx_hal_can.o"
+"pp_peripheral\stm32f0xx_hal_rcc.o"
+"pp_peripheral\stm32f0xx_hal_rcc_ex.o"
+"pp_peripheral\stm32f0xx_hal.o"
+"pp_peripheral\stm32f0xx_hal_i2c.o"
+"pp_peripheral\stm32f0xx_hal_i2c_ex.o"
+"pp_peripheral\stm32f0xx_hal_gpio.o"
+"pp_peripheral\stm32f0xx_hal_dma.o"
+"pp_peripheral\stm32f0xx_hal_cortex.o"
+"pp_peripheral\stm32f0xx_hal_pwr.o"
+"pp_peripheral\stm32f0xx_hal_pwr_ex.o"
+"pp_peripheral\stm32f0xx_hal_flash.o"
+"pp_peripheral\stm32f0xx_hal_flash_ex.o"
+"pp_peripheral\stm32f0xx_hal_exti.o"
+"pp_peripheral\stm32f0xx_hal_tim.o"
+"pp_peripheral\stm32f0xx_hal_tim_ex.o"
+"pp_peripheral\system_stm32f0xx.o"
+--strict --scatter "PP_Peripheral\PP_Peripheral.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "PP_Peripheral.map" -o PP_Peripheral\PP_Peripheral.axf

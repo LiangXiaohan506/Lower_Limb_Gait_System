@@ -1,0 +1,33 @@
+*************************************************************
+FileName = 角度采集板.GBR
+AutoAperture = True
+*************************************************************
+Generating : Drill Drawing
+      File : 角度采集板.GD1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Drill Pair : Bottom Layer-Top Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : 角度采集板.GG1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Drill Pair : Bottom Layer-Top Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+*************************************************************
+

@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Desktop\足底压力\足底压力+下肢姿态系统-V2.0\接收器\接收器.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=接收器-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=接收器-slotholes.txt|DrillLayers=gtl,gbl

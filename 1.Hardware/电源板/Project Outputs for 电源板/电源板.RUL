@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\liang\Desktop\足底压力\足底压力+下肢姿态系统-V1.0\电源板\电源板.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

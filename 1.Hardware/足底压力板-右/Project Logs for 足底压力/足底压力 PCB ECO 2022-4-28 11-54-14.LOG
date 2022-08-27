@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=CV3 Pin=R28-1
+Removed Pin From Net: NetName=CV2 Pin=R28-2
+Removed Pin From Net: NetName=CV1 Pin=R28-3
+Removed Pin From Net: NetName=CV0 Pin=R28-4
+Removed Pin From Net: NetName=3.3V Pin=R28-5
+Removed Pin From Net: NetName=3.3V Pin=R28-6
+Removed Pin From Net: NetName=3.3V Pin=R28-7
+Removed Pin From Net: NetName=3.3V Pin=R28-8
+Removed Member From Class: ClassName=足底压力 Member=R28
+Added Component: Designator=C15(C 0603_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RCA-8P4R-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片网络排阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=CV3 Pin=R6-1
+Added Pin To Net: NetName=CV2 Pin=R6-2
+Added Pin To Net: NetName=CV1 Pin=R6-3
+Added Pin To Net: NetName=CV0 Pin=R6-4
+Added Pin To Net: NetName=3.3V Pin=R6-5
+Added Pin To Net: NetName=3.3V Pin=R6-6
+Added Pin To Net: NetName=3.3V Pin=R6-7
+Added Pin To Net: NetName=3.3V Pin=R6-8
+Added Member To Class: ClassName=足底压力 Member=Component C15 104
+Added Member To Class: ClassName=足底压力 Member=Component M1 ESP8266-12S
+Added Member To Class: ClassName=足底压力 Member=Component R6 30K
+Added Room: Name=足底压力

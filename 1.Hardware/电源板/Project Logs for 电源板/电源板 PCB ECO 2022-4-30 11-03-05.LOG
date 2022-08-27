@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=CANL Pin=JP1-2
+Removed Pin From Net: NetName=CANH Pin=JP1-3
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Pin From Net: NetName=5V Pin=P1-4
+Removed Pin From Net: NetName=GND Pin=P2-1
+Removed Pin From Net: NetName=5V Pin=P2-4
+Removed Pin From Net: NetName=GND Pin=P3-1
+Removed Pin From Net: NetName=5V Pin=P3-4
+Removed Pin From Net: NetName=GND Pin=P4-1
+Removed Pin From Net: NetName=5V Pin=P4-4
+Added Pin To Net: NetName=CANH Pin=JP1-2
+Added Pin To Net: NetName=CANL Pin=JP1-3
+Added Pin To Net: NetName=5V Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=5V Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-4
+Added Pin To Net: NetName=5V Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-4
+Added Pin To Net: NetName=5V Pin=P4-1
+Added Pin To Net: NetName=GND Pin=P4-4
+Change Net Name : Old Net Name=CANH New Net Name=CANL
+Change Net Name : Old Net Name=CANL New Net Name=CANH
+Added Room: Name=µÁ‘¥∞Â

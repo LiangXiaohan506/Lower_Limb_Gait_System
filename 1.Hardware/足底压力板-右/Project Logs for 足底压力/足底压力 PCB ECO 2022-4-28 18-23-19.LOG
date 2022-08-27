@@ -1,0 +1,12 @@
+Added Component: Designator=M1(ESP8266-12S)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetM1_1 Pin=M1-1
+Added Pin To Net: NetName=NetM1_3 Pin=M1-3
+Added Pin To Net: NetName=3.3V Pin=M1-8
+Added Pin To Net: NetName=GND Pin=M1-9
+Added Pin To Net: NetName=NetM1_10 Pin=M1-10
+Added Pin To Net: NetName=NetM1_12 Pin=M1-12
+Added Pin To Net: NetName=NetD2_1 Pin=M1-15
+Added Pin To Net: NetName=NetD1_2 Pin=M1-16
+Added Member To Class: ClassName=×ãµ×Ñ¹Á¦ Member=Component M1 ESP8266-12S
+Added Room: Name=×ãµ×Ñ¹Á¦

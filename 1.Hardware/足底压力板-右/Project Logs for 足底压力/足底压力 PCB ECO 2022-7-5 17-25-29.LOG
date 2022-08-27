@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=PA4/A Pin=IC1-20
+Removed Pin From Net: NetName=PA5/B Pin=IC1-21
+Removed Pin From Net: NetName=PA6/C Pin=IC1-22
+Removed Pin From Net: NetName=PA7/D Pin=IC1-23
+Added Pin To Net: NetName=PA7/D Pin=IC1-20
+Added Pin To Net: NetName=PA6/C Pin=IC1-21
+Added Pin To Net: NetName=PA5/B Pin=IC1-22
+Added Pin To Net: NetName=PA4/A Pin=IC1-23
+Added Member To Class: ClassName=×ãµ×Ñ¹Á¦ Member=Component IC1 74HC154
+Added Member To Class: ClassName=×ãµ×Ñ¹Á¦ Member=Component U4 SN74HC05DR
+Added Room: Name=×ãµ×Ñ¹Á¦

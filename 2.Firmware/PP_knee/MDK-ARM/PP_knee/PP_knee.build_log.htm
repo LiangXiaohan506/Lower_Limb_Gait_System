@@ -1,0 +1,104 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: μVision V5.35.0.0
+Copyright (C) 2021 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: 123 曲阜师范大学工学院, 123, LIC=1WSKC-7I4ZH-E06N4-F0U4E-IDFAZ-JUKW8
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Professional  Version: 5.35.0.2
+Toolchain Path:  D:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 7 (build 960)
+Assembler:       Armasm.exe V5.06 update 7 (build 960)
+Linker/Locator:  ArmLink.exe V5.06 update 7 (build 960)
+Library Manager: ArmAr.exe V5.06 update 7 (build 960)
+Hex Converter:   FromElf.exe V5.06 update 7 (build 960)
+CPU DLL:         SARMCM3.DLL V5.35.0.2
+Dialog DLL:      DARMCM1.DLL V1.19.4.0
+Target DLL:      STLink\ST-LINKIII-KEIL_SWO.dll V3.0.9.0
+Dialog DLL:      TARMCM1.DLL V1.14.4.0
+ 
+<h2>Project:</h2>
+D:\STM32Code\PP_knee\MDK-ARM\PP_knee.uvprojx
+Project File Date:  07/27/2022
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'D:\Keil_v5\ARM\ARMCC\Bin'
+Rebuild target 'PP_knee'
+assembling startup_stm32f042x6.s...
+compiling inv_mpu_dmp_motion_driver.c...
+compiling gpio.c...
+compiling can.c...
+compiling main.c...
+../Core/Src/main.c(308): warning:  #167-D: argument of type "volatile float *" is incompatible with parameter of type "float *"
+  	while(mpu_dmp_get_data(&pitch,&roll,&yaw)!=0){ }
+../Core/Src/main.c(308): warning:  #167-D: argument of type "volatile float *" is incompatible with parameter of type "float *"
+  	while(mpu_dmp_get_data(&pitch,&roll,&yaw)!=0){ }
+../Core/Src/main.c(308): warning:  #167-D: argument of type "volatile float *" is incompatible with parameter of type "float *"
+  	while(mpu_dmp_get_data(&pitch,&roll,&yaw)!=0){ }
+../Core/Src/main.c: 3 warnings, 0 errors
+compiling i2c.c...
+compiling mpu6050.c...
+compiling stm32f0xx_it.c...
+compiling inv_mpu.c...
+..\Core\Src\inv_mpu.c(844): warning:  #223-D: function "memset" declared implicitly
+      memset(&st.chip_cfg.cache, 0, sizeof(st.chip_cfg.cache));
+..\Core\Src\inv_mpu.c(1936): warning:  #223-D: function "labs" declared implicitly
+          st_shift_cust = labs(bias_regular[jj] - bias_st[jj]) / 65536.f;
+..\Core\Src\inv_mpu.c(1964): warning:  #223-D: function "labs" declared implicitly
+          st_shift_cust = labs(bias_regular[jj] - bias_st[jj]) / 65536.f;
+..\Core\Src\inv_mpu.c(2363): warning:  #223-D: function "memcmp" declared implicitly
+          if (memcmp(firmware+ii, cur, this_write))
+..\Core\Src\inv_mpu.c(3015): warning:  #1-D: last line of file ends without a newline
+  }
+..\Core\Src\inv_mpu.c: 5 warnings, 0 errors
+compiling stm32f0xx_hal_msp.c...
+compiling stm32f0xx_hal_can.c...
+compiling stm32f0xx_hal.c...
+compiling stm32f0xx_hal_rcc_ex.c...
+compiling stm32f0xx_hal_rcc.c...
+compiling stm32f0xx_hal_i2c.c...
+compiling stm32f0xx_hal_dma.c...
+compiling stm32f0xx_hal_i2c_ex.c...
+compiling stm32f0xx_hal_gpio.c...
+compiling stm32f0xx_hal_cortex.c...
+compiling stm32f0xx_hal_pwr_ex.c...
+compiling stm32f0xx_hal_pwr.c...
+compiling stm32f0xx_hal_flash.c...
+compiling stm32f0xx_hal_tim.c...
+compiling stm32f0xx_hal_exti.c...
+compiling stm32f0xx_hal_flash_ex.c...
+compiling system_stm32f0xx.c...
+compiling stm32f0xx_hal_tim_ex.c...
+linking...
+Program Size: Code=20116 RO-data=3820 RW-data=104 ZI-data=1816  
+FromELF: creating hex file...
+"PP_knee\PP_knee.axf" - 0 Error(s), 8 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.8.0.pack
+                ARM.CMSIS.5.8.0
+                CMSIS (Common Microcontroller Software Interface Standard)
+   * Component: CORE Version: 5.5.0
+
+Package Vendor: Keil
+                https://www.keil.com/pack/Keil.STM32F0xx_DFP.2.1.1.pack
+                Keil.STM32F0xx_DFP.2.1.1
+                STMicroelectronics STM32F0 Series Device Support, Drivers and Examples
+
+<h2>Collection of Component include folders:</h2>
+  .\RTE\_PP_knee
+  D:\Keil_v5\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include
+  D:\Keil_v5\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:5.5.0
+Build Time Elapsed:  00:00:14
+</pre>
+</body>
+</html>

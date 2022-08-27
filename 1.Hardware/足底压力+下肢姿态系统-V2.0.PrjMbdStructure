@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=足底压力+下肢姿态系统-V2.0.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=电源板\电源板.PrjPCB
+Record=SubProject|SourceDocument=足底压力+下肢姿态系统-V2.0.MbsDoc|ProjectPath=电源板\电源板.PrjPCB
+Record=DiagramHierarchy|SourceDocument=足底压力+下肢姿态系统-V2.0.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=足底压力板\足底压力.PrjPcb
+Record=SubProject|SourceDocument=足底压力+下肢姿态系统-V2.0.MbsDoc|ProjectPath=足底压力板\足底压力.PrjPcb

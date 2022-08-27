@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VC7 Pin=IC1-5
+Removed Pin From Net: NetName=VC8 Pin=IC1-6
+Added Pin To Net: NetName=VC8 Pin=IC1-5
+Added Pin To Net: NetName=VC7 Pin=IC1-6
+Added Room: Name=×ãµ×Ñ¹Á¦
