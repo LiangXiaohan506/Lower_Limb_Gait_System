@@ -7,4 +7,4 @@
 
 同时为了穿戴的舒适性，本项目为数据采集模块设计了符合人体工学的外壳。
 
-![image]( https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
+![image](https://github.com/LiangXiaohan506/Lower_Limb_Gait_System/blob/main/5.%E5%9B%BE%E7%89%87.jpg)
